@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VidyaSagar2612
+- 👋 Hi, I’m Vidya Sagar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m studying CSE in NIT Agartala
 - 📫 How to reach me ...6201427621 or email me vidyasagar51423@gmail.com 
 
 <!---
